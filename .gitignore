@@ -1,0 +1,10 @@
+__pycache__/
+*.o
+*.bin
+*.so
+*.swp
+*.out
+*.log
+build/
+.vscode/
+*.ipynb_checkpoints
